@@ -1,0 +1,60 @@
+.mainHeader {
+	background-color:#DDABFF;	
+}
+
+.sidebar {
+	background-color:#DDABFF;
+}
+
+.calloutStyle {
+	margin-top:30px;
+}
+
+
+p{
+	font-family: 'Archivo', sans-serif;
+	font-size:18px;
+}
+
+h1{
+	font-family: 'Archivo', sans-serif;
+	font-size: 70px;
+}
+
+h3{
+	font-family: 'Archivo', sans-serif;
+	font-size: 30px;
+}
+
+h2{
+	font-family: 'Archivo', sans-serif;
+	font-size: 50px;
+}
+
+h4 {
+	font-family: 'Archivo', sans-serif;
+	font-size: 26px;
+}
+
+
+
+.imageleft {
+	float:left;
+	margin-right:10opx;
+}
+.imageright {
+	float:right;
+	margin:10px 10px 10px 10px;
+}
+.imagearray {
+	float:right;
+	margin:10px;
+}
+
+
+.orbit {
+    background-color:#C1F6E6;
+    font-family: 'Archivo', sans-serif;
+    padding-right:20px;
+    padding-left: 20px;
+}
